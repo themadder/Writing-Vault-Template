@@ -42,5 +42,8 @@ This is an idea I had to track changes made to notes over time without having to
 2. Copy notes into folder, Rename them with numbers so they appear in chronological order
 	1. Renaming Idea: Type-Name.  eg, Location-Mackinac Island, Character-Shaggy Rogers.
 3. I would personally link them to the associated turning point via properties or use a tag if it were for several different things that got "arced" all together.
+## Forward all Photos & Attachments to the /attchs Folder, Hide Template Notes from Graph View
+This is simply for those who don't know how, but in your _Files and links_ settings you can set the **Default location for new attachments** and this is where you would set the /attchs folder as your attachments folder.
+Under this setting you can also Exclude z.Junk/temps/ so your graph might be a little neater, if you're into that kinda thing.
 ## Read the plugin READMEs
 For all the community plugins that you want to take the time to set up (ie, Leaflet for maps) take the time to read the READMEs as that will offer you more support than I can here.
