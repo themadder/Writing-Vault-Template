@@ -1,7 +1,7 @@
 # Writing-Vault-Template
 This is an Obsidian.MD Template Vault, meant to be copied and set up by the user with Obsidian.MD.  
 You should probably have Obsidian.MD if you're reading this.  
-All notes with "Placeholder" can be deleted or replaced with proper template to start off your project, they are mostly just to hold the structure in place.
+All notes with "Placeholder" or "Placehold" can be deleted or replaced with proper template to start off your project, they are mostly just to hold the structure in place.
 
 # Recomended Community Plugins 
 - Advanced Tables
