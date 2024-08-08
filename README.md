@@ -52,29 +52,31 @@ For all the community plugins that you want to take the time to set up (ie, Leaf
 # Property Settings
 I'm not sure if when loading up a crisp new vault the properties of the templates will properly align, so if they don't I've decided to save a headache and log what property type each property gets.  I have listed these in order of appearance in going through my current list of templates alphabetically.  
 
-tags - has its own property type
-aliases - has its own property type
-Relationships - list type
-Character Cast - list type
-Locations - list type
-Date - date type
-Related Events - list type
-First Name - text type
-Surname - text type
-Species - list type
-Gender Identity - list type
-Sexual Identity - list type
-Residence - text type
-Religious Ties - list type
-aat-render-enabled - checkbox type
-aat-event-title - text type
-aat-event-body - text type
-aat-event-picture - actually never used this one, idk, i'll report back
-timelines - list type
-aat-event-start-date - date type
-aat-event-end-date - date type
-Founder(s) - text type
-Location Type - list type
+Property | Property Type
+-- | --
+tags | has its own property type
+aliases | has its own property type
+Relationships | list type
+Character Cast | list type
+Locations | list type
+Date | date type
+Related Events | list type
+First Name | text type
+Surname | text type
+Species | list type
+Gender Identity | list type
+Sexual Identity | list type
+Residence | text type
+Religious Ties | list type
+aat-render-enabled | checkbox type
+aat-event-title | text type
+aat-event-body | text type
+aat-event-picture | actually never used this one, idk, i'll report back
+timelines | list type
+aat-event-start-date | date type
+aat-event-end-date | date type
+Founder(s) | text type
+Location Type | list type
 
 # Regarding Timelines
 The whatever you fill in for the timelines property (ie- 'main plot') will be what you use in the code of the t.Timeline template; so within that code of the template, you would replace 'timelines' with 'main plot', and any other timelines you wanted to include, separated by commas.
